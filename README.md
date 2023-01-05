@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">A software developer based in Adelaide, Australia</h3>
 
-- 🔭 I’m currently working on **a Student Learning Management System**
+- 🔭 I’m currently working on a **resourcing API built using Spring and mySQL**
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Spring**
 
 - 👨‍💻 All of my projects are available at [https://matthewchhay.com/](https://matthewchhay.com/)
 
@@ -11,7 +11,6 @@
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://dev.to/chhaymatt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chhaymatt" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/matthewchhay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthewchhay" height="30" width="40" /></a>
 </p>
 
