@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew</h1>
 <h3 align="center">A software developer based in Adelaide, Australia</h3>
 
-- 🔭 I’m currently working on an **employee tracking system** built using React TypeScript for the front end and Spring Java, mySQL for the back end**
+- 🔭 I’m currently working on an **employee tracking system** built using React TypeScript for the front end and Spring Java, mySQL for the back end
 
 - 🌱 I’m currently learning **React Query and React Hook Form**
 
