@@ -22,7 +22,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### Frameworks & Libraries
+### 📚 Frameworks & Libraries
 
 ![SCSS/SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -46,34 +46,34 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-### Databases
+### 📊 Databases
 
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![mySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Testing
+### 🧪 Testing
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![JUnit](https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![React Testing Library](https://img.shields.io/badge/-Testing_Library-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 
-### Deployment & Cloud
+### ☁️ Deployment & Cloud
 
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 ![Amazon Web Services](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### My Workspace Specs
+### 👨‍💻 My Workspace Specs
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Macbook Pro 14"](https://img.shields.io/badge/Apple-MacBook_Pro_14"_2021-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![Apple Silicon](https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white)
 
-### My PC Specs
+### 🕹️ My PC Specs
 
 ![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 ![Intel Core i5-13600K](https://img.shields.io/badge/Intel%20Core_i5_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![GTX1080-Ti](https://img.shields.io/badge/NVIDIA-GTX1080_TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-### Profile Stats
+### 👀 Profile Stats
 
 ![Profile Counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{chhaymatt}1212%2Fhit-counter)
